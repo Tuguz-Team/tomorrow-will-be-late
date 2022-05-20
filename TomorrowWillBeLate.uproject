@@ -19,6 +19,10 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "KantanDocGen",
+			"Enabled": true
 		}
 	]
 }
